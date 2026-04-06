@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   { "ref": "09", "title": "Graças Damos, Ó Deus, Por um Profeta" },
   { "ref": "14", "title": "Hoje, ao Profeta Louvemos" },
   { "ref": "117", "title": "Com Irmãos Nós Reunidos" },
@@ -7,3 +8,10 @@
   { "ref": "46", "title": "Nossas Vozes Elevemos" },
   { "ref": "83", "title": "Com Fervor Fizeste a Prece?" }
 ]
+=======
+  { "ref": "180", "title": "Song of Republic" },
+  { "ref": "162", "title": "March Onwards" },
+  { "ref": "1001", "title": "Come, Thou Fount of Every Blessing" },
+  { "ref": "1008", "title": "Living Water" }
+]
+>>>>>>> 018b9c7d3f4a64ff4a5bc962d237d7ac709f58b6
